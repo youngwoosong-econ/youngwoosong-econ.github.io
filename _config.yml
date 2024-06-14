@@ -12,9 +12,9 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://youngwoosong-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://youngwoo_song.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "youngwoosong-econ/youngwoosong-econ.github.io"
+repository               : "youngwoosong-econ/youngwoo_song.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Economics Ph.D. Student at UC Santa Cruz"
+  location         : "Santa Cruz, California"
+  employer         : "University of California, Santa Cruz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ysong96@ucsc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
