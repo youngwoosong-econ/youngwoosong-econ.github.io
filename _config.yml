@@ -21,7 +21,7 @@ repository               : "youngwoosong-econ/youngwoosong-econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "atRedwook.jpg"
+  avatar           : "profile_redwood.png"
   name             : "Youngwoo Song"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Student at UC Santa Cruz"
