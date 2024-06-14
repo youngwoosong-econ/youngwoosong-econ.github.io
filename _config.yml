@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Youngwoo Song"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Youngwoo Song"
 description              : &description "personal description"
 url                      : https://youngwoosong-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "youngwoosong-econ/youngwoosong-econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "atRedwook.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Student at UC Santa Cruz"
