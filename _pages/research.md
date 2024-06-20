@@ -16,7 +16,7 @@ Green Shoots: Seeding a Market for Certified Cassava Cuttings in Rwanda
 
 The Fruits of Globalization: Connecting Rwandan Horticultural Farmers to Export Value Chains
 ----
-* with Shilpa Aggarwal, Jonathan Robinson, and Alan Spearot 
+* with Shilpa Aggarwal, Jonathan Robinson, and Alan Spearot
 * Pilot ongoing
 
 Earlier Works
