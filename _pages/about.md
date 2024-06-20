@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I'm a Ph.D. student in Economics at [UC Santa Cruz](https://economics.ucsc.edu/). My previous website is [here](https://sites.google.com/ucsc.edu/youngwoosong), and I'm gradually migrating all of the stuff to this website. 
 
 Education
 ======
