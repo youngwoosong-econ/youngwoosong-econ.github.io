@@ -10,8 +10,8 @@ I'm a Ph.D. student in Economics at [UC Santa Cruz](https://economics.ucsc.edu/)
 
 Education
 ======
-* Ph.D in Economics, University of California, Santa Cruz (in progress, from 2021)
-* M.A. in [Economics](https://devcms.yonsei.ac.kr/economics_en/index.do) (2021), [Yonsei University](https://www.yonsei.ac.kr/en_sc/), Seoul, South Korea 
+* Ph.D in Economics, [University of California, Santa Cruz](https://economics.ucsc.edu/) (in progress, from 2021)
+* M.A. in Economics (2021), [Yonsei University](https://devcms.yonsei.ac.kr/economics_en/index.do), Seoul, South Korea 
 * B.A. in Economics, Minor in Applied Statistics (2018), Yonsei University, Seoul, South Korea
 
 Research Interest
