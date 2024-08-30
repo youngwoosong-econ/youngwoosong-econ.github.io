@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Click [here](https://www.dropbox.com/scl/fi/790w6gyojxse3oikace0o/CV_YoungwooSong.pdf?rlkey=hb5evm0gaqbnbq8kttu8tr1i3&dl=0) to download my CV
 
 Education
 ======
